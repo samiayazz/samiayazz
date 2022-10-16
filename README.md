@@ -1,5 +1,6 @@
 ### Hi there 👋
-Welcome to my profile!
+
+#### About me
 
 - 🌱 I’m currently learning `JAVA`
 - ⚡ I have experience in `C#`, `PHP`, `JavaScript`
