@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px"></h1>
-<h3 align="center">I'm a Junior Software Developer with experienced in .NET development. I'm currently improving myself in Java, Jakarta EE and Spring Boot.</h3>
+<h3 align="center">I'm a Junior Software Developer with experienced in .NET development. I'm currently improving myself in Java, Jakarta EE and Spring Framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiayazz&label=Profile%20views&color=0e75b6&style=flat" alt="samiayazz" /> </p>
 
 - 🔭 I’m experienced on **.NET Development**, **C#**, **ASP.NET Core**
 
-- 🌱 I’m currently learning **Java**, **Jakarta EE**, **Spring Boot**, **JavaScript**, **React**, **Angular**, **Microservices** and **Message Brokers**
+- 🌱 I’m currently learning **Java**, **Jakarta EE**, **Spring Framework**, **JavaScript**, **React**, **Angular**, **Microservices** and **Message Brokers**
 
 - 💬 Ask me about **C#, Java**
 
