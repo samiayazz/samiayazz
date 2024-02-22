@@ -14,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br>🎲 Fun fact: <a href="https://github.com/samiayazz/instagram-clone-app">Instagram Clone App</a></p>
 
 ###
@@ -25,8 +23,6 @@
 <h2 align="left">Contact me</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://stackoverflow.com/users/20557594/samiayaz" target="_blank">
@@ -44,8 +40,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -110,8 +104,6 @@
 <h2 align="left">Statistics</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samiayazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
