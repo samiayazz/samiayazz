@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">About me</h2>
 
 ###
@@ -17,8 +15,6 @@
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br>🎲 Fun fact: <a href="https://github.com/samiayazz/instagram-clone-app">Instagram Clone App</a></p>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Contact me</h2>
 
@@ -34,8 +30,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -98,8 +92,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">Statistics</h2>
 
