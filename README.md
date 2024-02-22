@@ -1,6 +1,28 @@
 <br clear="both">
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋 I'm Sami</h1>
+
+###
+
+<p align="left">I am an engineer with over 3 years of software development experience in <b>.NET technologies</b>. I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br>🎲 Fun fact: <a href="https://github.com/samiayazz/instagram-clone-app">Instagram Clone App</a></p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Contact me</h2>
 
 ###
 
@@ -14,18 +36,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">I am an engineer with over 3 years of software development experience in .NET technologies.<br>I possess knowledge in Jakarta EE topics such as Servlets, JSP, JAX-RS, and Spring, and I am continuously enhancing my skills.<br><br>✨ Creating bugs since 2018<br>📚 I'm currently learning Jakarta EE and Spring<br>🎯 Goals: Java, .NET, OOP, Clean Code, Design Patterns<br>🎲 Fun fact: <a href="https://github.com/samiayazz/instagram-clone-app">Instagram Clone App</a></p>
 
 ###
 
