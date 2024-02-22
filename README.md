@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an engineer with over 3 years of software development experience in <b>.NET technologies</b>.<br><br>I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.</p>
+<p align="left">I am an engineer with over 3 years of software development experience in <b>.NET technologies</b>.<br>I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.</p>
 
 ###
 
