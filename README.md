@@ -82,13 +82,13 @@
 
 ###
 
-<h3 align="left">🔥   My stats</h3>
+<!--<div align="center">-->
+  <img align="right" src="https://profile-counter.glitch.me/samiayazz/count.svg?"  />
+<!--</div>-->
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/samiayazz/count.svg?"  />
-</div>
+<h3 align="left">🔥   My stats</h3>
 
 ###
 
