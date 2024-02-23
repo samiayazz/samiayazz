@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/samiayazz/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center">Hello 👋 I'm Sami</h1>
 
 ###
@@ -93,9 +87,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiayazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="168" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiayazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="168" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=samiayazz&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="168" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/samiayazz/count.svg?"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiayazz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="168" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiayazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="168" alt="languages graph"  />
+  <!--<img src="https://streak-stats.demolab.com?user=samiayazz&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="168" alt="streak graph"  />
+</div>-->
