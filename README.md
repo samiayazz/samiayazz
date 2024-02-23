@@ -23,7 +23,8 @@
 
 ###
 
-<p align="left">I am a software developer with over 3 years of experience in <b>.NET technologies</b>. I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.<br><br>- ✨ Coding since <b>2018</b><br>- 📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>- 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br></p>
+<p align="left">I am a software developer with over 3 years of experience in <b>.NET technologies</b>. <br/>
+  I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.<br><br>- ✨ Coding since <b>2018</b><br>- 📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>- 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br></p>
 
 ###
 
