@@ -17,8 +17,19 @@
 
 ###
 
-<p align="left">I am a software developer with over 3 years of experience in <b>.NET technologies</b>. <br/>
-  I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills.<br><br>- ✨ Coding since <b>2018</b><br>- 📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b><br>- 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b><br></p>
+<p align="left">
+  I am a software developer with over 3 years of experience in <b>.NET technologies</b>. <br/>
+  I possess knowledge in <b>Jakarta EE</b> topics such as <b>Servlets</b>, <b>JavaServer Pages (JSP)</b>, <b>JAX-RS</b>, and <b>Spring</b>, and I am continuously enhancing my skills. <br/>
+
+  <ul align="left">
+    <li align="left">✨ Coding since <b>2018</b></li>
+    <li>📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b></li>
+    <li>🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b></li>
+  </ul> <br/>
+  <!-- - ✨ Coding since <b>2018</b> <br/>
+  - 📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b> <br/>
+  - 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b> <br/> -->
+</p>
 
 ###
 
@@ -79,6 +90,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
+
+<br/>
 
 ###
 
