@@ -25,7 +25,7 @@
     <li align="left">✨ Coding since <b>2018</b></li>
     <li>📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b></li>
     <li>🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b></li>
-  </ul> <br/>
+  </ul>
   <!-- - ✨ Coding since <b>2018</b> <br/>
   - 📚 I'm currently learning <b>Jakarta EE</b> and <b>Spring</b> <br/>
   - 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b> <br/> -->
@@ -90,8 +90,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
-
-<br/>
 
 ###
 
