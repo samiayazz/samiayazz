@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About me</h3>
+<h3 align="left">👩‍💻  About me  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samiayazz.samiayazz" />  </h3>
 
 ###
 
@@ -83,7 +83,7 @@
 ###
 
 <!--<div align="center">-->
-  <img align="right" src="https://profile-counter.glitch.me/samiayazz/count.svg?"  />
+  <!--<img align="right" src="https://profile-counter.glitch.me/samiayazz/count.svg"  />-->
 <!--</div>-->
 
 ###
