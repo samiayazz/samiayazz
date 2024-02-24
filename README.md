@@ -31,6 +31,8 @@
   - 🎯 Goals: <b>Java</b>, <b>.NET</b>, <b>OOP</b>, <b>Clean Code</b>, <b>Design Patterns</b> <br/> -->
 </p>
 
+<br/>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
