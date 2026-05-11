@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-  I am a software developer with over <b>5 years of experience</b> in <b>C#</b> and <b>.NET</b> technologies. <br/>
+  I have been a software developer dedicated to the <b>C#</b> and <b>.NET</b> stack <b>since 2018.</b> <br/>
 
   <ul>
     <li> 💻 Coding since <b>2018</b> </li>
