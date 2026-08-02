@@ -61,15 +61,5 @@
   
   ![samiayazz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=samiayazz&theme=shadow)
   ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=samiayazz&theme=shadow)
-
-  <br>
-
-  ![instagram-clone-app Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=instagram-clone-app&theme=shadow)
-  ![job-search Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=job-search&theme=shadow)
-
-  <br>
-
-  ![job-search-web-scraping Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=job-search-web-scraping&theme=shadow)
-  ![react-todo-app Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=react-todo-app&theme=shadow)
   
 </div>
