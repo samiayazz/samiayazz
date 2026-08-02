@@ -13,19 +13,17 @@
 
 ###
 
-<h3 align="left">👩‍💻 About me  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samiayazz.samiayazz&left_text=Visitors&left_color=gray&right_color=blue" />  </h3>
+<h3 align="left">👨‍💻 About Me  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samiayazz.samiayazz&left_text=Visitors&left_color=gray&right_color=blue" />  </h3>
 
 ###
 
 <p align="left">
-  I have been a software developer dedicated to the <b>C#</b> and <b>.NET</b> stack <b>since 2018.</b> <br/>
+  .NET Developer dedicated to building scalable enterprise solutions with <b>C#</b> and <b>.NET</b> <b>since 2018.</b> <br/>
 
   <ul>
-    <li> 💻 Coding since <b>2018</b> </li>
-    <li> 🏢 Currently, I am developing <b>SAP</b> solutions with <b>C#</b> and <b>.NET</b> technologies </li>
-    <li> ✨ Focus: <b>Microservices</b>, <b>Message Queue/Broker Systems</b> and <b>Web Backend Development</b> </li>
-    <li> 🎯 Goals: <b>C#</b>, <b>.NET Core</b> and <b>ASP.NET Core</b> </li>
-    <li> 🔭 Attendions: <b>OOP</b>, <b>Clean Code</b> and <b>Design Patterns</b> </li>
+    <li> ☄️ Core Focus: <b>Full-stack Web Development</b>, <b>DevOps</b> </li>
+    <li> 🎯 Main Stack: <b>.NET Core</b>, <b>C#</b> </li>
+    <li> ✨ Principles: <b>Clean Code</b>, <b>SOLID</b>, <b>OOP</b> and <b>Design Patterns</b> </li>
   </ul>
 </p>
 
@@ -33,50 +31,29 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🌀 Tech Stack</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elastic logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
+  <h4 align="left">Langs & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,tailwind,angular,react,flutter,dart&perline=10" />
+  <br>
+  <h4 align="left">Databases</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,elasticsearch,redis&perline=10" />
+  <br>
+  <h4 align="left">VCS & Deployment</h4>
+  <img src="https://skillicons.dev/icons?i=bash,git,github,githubactions,docker,netlify,vercel,nginx,azure&perline=10" />
+  <br>
+  <h4 align="left">Other</h4>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,webstorm,androidstudio,postman,figma,stackoverflow&perline=10" />
 </div>
 
 <br/>
 
 ###
 
-<h3 align="left">🔥 My stats</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
