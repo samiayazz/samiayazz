@@ -57,9 +57,19 @@
 
 ###
 
-<div align="center">
-  <!-- theme=codeSTACKr | theme=github_dark | theme=darcula -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samiayazz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&order=1" height="168" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiayazz&locale=en&layout=compact&card_width=320&langs_count=6&theme=github_dark&order=2" height="168" alt="languages graph" />
-  <!--<img src="https://streak-stats.demolab.com?user=samiayazz&locale=en&mode=daily&theme=github_dark&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="168" alt="streak graph" />-->
+<div align="left">
+  
+  ![samiayazz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=samiayazz&theme=shadow)
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=samiayazz&theme=shadow)
+
+  <br>
+
+  ![instagram-clone-app Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=instagram-clone-app&theme=shadow)
+  ![job-search Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=job-search&theme=shadow)
+
+  <br>
+
+  ![job-search-web-scraping Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=job-search-web-scraping&theme=shadow)
+  ![react-todo-app Stats](https://readme-stats-github.pages.dev/api/repo?username=samiayazz&repo=react-todo-app&theme=shadow)
+  
 </div>
